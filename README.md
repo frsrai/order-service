@@ -13,9 +13,9 @@ Handles order creation and lifecycle management with strong consistency guarante
 - Concurrency-safe processing
 
 ## Tech Stack
-- Backend: Go / Java
+- Backend: Go
 - Database: PostgreSQL
-- Messaging: Kafka / RabbitMQ (optional)
+- Messaging: Kafka
 
 ## Architecture
 - State-driven order processing
